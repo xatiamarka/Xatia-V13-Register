@@ -1,5 +1,5 @@
 
-# ThealoqV13Register
+# Xatia V13Register
 
 
 Basit Görev Sistemli V13 Register Yakında Güncelliycem Star Gelmeye Devam Ederse
